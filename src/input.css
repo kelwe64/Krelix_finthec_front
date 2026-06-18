@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+
+@theme {
+    --color-gulf-blue-50: #f4f6fe;
+    --color-gulf-blue-100: #eaedfd;
+    --color-gulf-blue-200: #d8ddfc;
+    --color-gulf-blue-300: #b9c0f9;
+    --color-gulf-blue-400: #9299f3;
+    --color-gulf-blue-500: #6568ed;
+    --color-gulf-blue-600: #4c45e2;
+    --color-gulf-blue-700: #3d33ce;
+    --color-gulf-blue-800: #322aad;
+    --color-gulf-blue-900: #2b248e;
+    --color-gulf-blue-950: #16145b;
+}
